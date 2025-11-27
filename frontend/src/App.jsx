@@ -13,7 +13,7 @@ import {
 import { Html5Qrcode } from "html5-qrcode";
 
 // API Configuration
-const API_URL = "http://localhost:5000/api"; 
+const API_URL = "attendance-system-production-022d.up.railway.app"; 
 
 const api = {
   getClasses: async () => {
